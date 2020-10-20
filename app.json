@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "c60:-school-attendance-app",
+    "slug": "snack-274f01cc-e079-455c-b8f5-6531bd7851b4",
+<<<<<<< HEAD
+    "version": "1.0.3",
+=======
+    "version": "1.0.2",
+>>>>>>> 279889390a1d17d562372ec1616dbfa3df4f84fa
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sharnavtech.attendanceapp"
+    },
+    "android": {
+      "package": "com.sharnavtech.attendanceapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
